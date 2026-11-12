@@ -1,0 +1,219 @@
+[
+    {
+        "fecha": "2025-01-01",
+        "media": 7.1,
+        "maxima": 12.8,
+        "minima": 2.4,
+        "amplitud_termica": 10.4
+    },
+    {
+        "fecha": "2025-01-02",
+        "media": 7.3,
+        "maxima": 12.9,
+        "minima": 2.5,
+        "amplitud_termica": 10.4
+    },
+    {
+        "fecha": "2025-01-03",
+        "media": 7.4,
+        "maxima": 12.9,
+        "minima": 3.0,
+        "amplitud_termica": 9.9
+    },
+    {
+        "fecha": "2025-01-04",
+        "media": 8.1,
+        "maxima": 12.6,
+        "minima": 3.9,
+        "amplitud_termica": 8.7
+    },
+    {
+        "fecha": "2025-01-05",
+        "media": 9.5,
+        "maxima": 15.8,
+        "minima": 3.5,
+        "amplitud_termica": 12.3
+    },
+    {
+        "fecha": "2025-01-06",
+        "media": 10.2,
+        "maxima": 12.0,
+        "minima": 7.4,
+        "amplitud_termica": 4.6
+    },
+    {
+        "fecha": "2025-01-07",
+        "media": 7.1,
+        "maxima": 10.8,
+        "minima": 3.1,
+        "amplitud_termica": 7.7
+    },
+    {
+        "fecha": "2025-01-08",
+        "media": 8.3,
+        "maxima": 15.2,
+        "minima": 3.7,
+        "amplitud_termica": 11.5
+    },
+    {
+        "fecha": "2025-01-09",
+        "media": 12.3,
+        "maxima": 15.7,
+        "minima": 9.2,
+        "amplitud_termica": 6.5
+    },
+    {
+        "fecha": "2025-01-10",
+        "media": 10.3,
+        "maxima": 14.6,
+        "minima": 7.0,
+        "amplitud_termica": 7.6
+    },
+    {
+        "fecha": "2025-01-11",
+        "media": 12.0,
+        "maxima": 14.8,
+        "minima": 9.5,
+        "amplitud_termica": 5.3
+    },
+    {
+        "fecha": "2025-01-12",
+        "media": 10.6,
+        "maxima": 14.1,
+        "minima": 7.1,
+        "amplitud_termica": 7.0
+    },
+    {
+        "fecha": "2025-01-13",
+        "media": 6.0,
+        "maxima": 11.0,
+        "minima": 0.9,
+        "amplitud_termica": 10.1
+    },
+    {
+        "fecha": "2025-01-14",
+        "media": 4.3,
+        "maxima": 10.7,
+        "minima": -1.1,
+        "amplitud_termica": 11.8
+    },
+    {
+        "fecha": "2025-01-15",
+        "media": 5.2,
+        "maxima": 10.9,
+        "minima": 0.0,
+        "amplitud_termica": 10.9
+    },
+    {
+        "fecha": "2025-01-16",
+        "media": 5.2,
+        "maxima": 9.1,
+        "minima": 2.5,
+        "amplitud_termica": 6.6
+    },
+    {
+        "fecha": "2025-01-17",
+        "media": 5.1,
+        "maxima": 11.2,
+        "minima": 0.0,
+        "amplitud_termica": 11.2
+    },
+    {
+        "fecha": "2025-01-18",
+        "media": 6.0,
+        "maxima": 11.1,
+        "minima": 2.2,
+        "amplitud_termica": 8.9
+    },
+    {
+        "fecha": "2025-01-19",
+        "media": 6.3,
+        "maxima": 11.4,
+        "minima": 1.9,
+        "amplitud_termica": 9.5
+    },
+    {
+        "fecha": "2025-01-20",
+        "media": 7.5,
+        "maxima": 13.0,
+        "minima": 2.4,
+        "amplitud_termica": 10.6
+    },
+    {
+        "fecha": "2025-01-21",
+        "media": 12.8,
+        "maxima": 17.5,
+        "minima": 9.1,
+        "amplitud_termica": 8.4
+    },
+    {
+        "fecha": "2025-01-22",
+        "media": 14.4,
+        "maxima": 18.6,
+        "minima": 10.2,
+        "amplitud_termica": 8.4
+    },
+    {
+        "fecha": "2025-01-23",
+        "media": 12.6,
+        "maxima": 17.1,
+        "minima": 9.4,
+        "amplitud_termica": 7.7
+    },
+    {
+        "fecha": "2025-01-24",
+        "media": 10.4,
+        "maxima": 16.0,
+        "minima": 5.8,
+        "amplitud_termica": 10.2
+    },
+    {
+        "fecha": "2025-01-25",
+        "media": 10.2,
+        "maxima": 13.5,
+        "minima": 6.1,
+        "amplitud_termica": 7.4
+    },
+    {
+        "fecha": "2025-01-26",
+        "media": 11.3,
+        "maxima": 17.5,
+        "minima": 4.1,
+        "amplitud_termica": 13.4
+    },
+    {
+        "fecha": "2025-01-27",
+        "media": 14.8,
+        "maxima": 16.8,
+        "minima": 10.3,
+        "amplitud_termica": 6.5
+    },
+    {
+        "fecha": "2025-01-28",
+        "media": 9.1,
+        "maxima": 11.1,
+        "minima": 6.8,
+        "amplitud_termica": 4.3
+    },
+    {
+        "fecha": "2025-01-29",
+        "media": 8.1,
+        "maxima": 11.9,
+        "minima": 3.2,
+        "amplitud_termica": 8.7
+    },
+    {
+        "fecha": "2025-01-30",
+        "media": 7.4,
+        "maxima": 10.5,
+        "minima": 5.2,
+        "amplitud_termica": 5.3
+    },
+    {
+        "fecha": "2025-01-31",
+        "media": 6.6,
+        "maxima": 10.5,
+        "minima": 3.5,
+        "amplitud_termica": 7.0
+    }
+]
